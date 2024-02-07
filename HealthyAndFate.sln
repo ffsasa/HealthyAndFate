@@ -5,7 +5,11 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BMICalculator", "BMICalculator\BMICalculator.csproj", "{8171D833-690D-47FC-A146-15C5DC99C570}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math", "Math\Math.csproj", "{08087CBC-73F4-4A24-8A16-2EDE194EC4E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Math", "Math\Math.csproj", "{08087CBC-73F4-4A24-8A16-2EDE194EC4E8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zodiac", "Zodiac\Zodiac.csproj", "{4F340A5F-90BB-4D65-A874-B5BF3DEF1375}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewYearStory", "NewYearStory\NewYearStory.csproj", "{AB3E47E7-26E8-4AFA-BF5C-42AE2E34FD41}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{08087CBC-73F4-4A24-8A16-2EDE194EC4E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08087CBC-73F4-4A24-8A16-2EDE194EC4E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08087CBC-73F4-4A24-8A16-2EDE194EC4E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F340A5F-90BB-4D65-A874-B5BF3DEF1375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F340A5F-90BB-4D65-A874-B5BF3DEF1375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F340A5F-90BB-4D65-A874-B5BF3DEF1375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F340A5F-90BB-4D65-A874-B5BF3DEF1375}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB3E47E7-26E8-4AFA-BF5C-42AE2E34FD41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB3E47E7-26E8-4AFA-BF5C-42AE2E34FD41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB3E47E7-26E8-4AFA-BF5C-42AE2E34FD41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB3E47E7-26E8-4AFA-BF5C-42AE2E34FD41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -14,7 +14,7 @@
             Console.WriteLine("5.You BMI is: {0}", BmiCalculator.GetBmi(48, 1.6));
             Console.WriteLine($"6.You BMI is: {BmiCalculator.GetBmi(48, 1.6)}");
 
-            string weightStatus = BmiCalculator.EvaluateWeightStatus(bmi);
+            string weightStatus = BmiCalculator.EvaluateWeightStatusEn(bmi);
             Console.WriteLine($"Your BMI is {bmi} based on weight 48kg & height = 1.6m \nand your weight status is {weightStatus}");
 
             Console.WriteLine(@$"Your BMI is {bmi}

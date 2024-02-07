@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BMICalculator\BMICalculator.csproj" />
+    <ProjectReference Include="..\Zodiac\Zodiac.csproj" />
+  </ItemGroup>
+
 </Project>
